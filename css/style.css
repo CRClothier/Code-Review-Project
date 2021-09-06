@@ -2,8 +2,21 @@
     margin: 0;
     padding: 0;    
 }
+img {
+    height: 20px;
+}
 
-#nav-bar {    
-    position: fixed;
+#nav-bar {   
     top: 0;
+}
+
+@media (minwidth: 500px) {
+    img {
+        width: 50px;
+    }
+}
+
+header {
+    display: flex;
+    position: fixed;
 }
