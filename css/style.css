@@ -89,16 +89,13 @@ iframe {
     justify-self: center;
     width: 300px;        
     height: 700px;    
-    border: solid 3px blue;
 }
 
 .video {
-    position: absolute;
-    border: solid 3px green;
+    position: absolute;    
     padding: 150px;
     width: 100%;    
 } 
-
 
 @media (minwidth: 500px) {
     img {
