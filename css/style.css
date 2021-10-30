@@ -1,7 +1,7 @@
 * {
-margin: 0;
-padding: 0;
-box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -40,7 +40,7 @@ img {
 .nav-link {
   margin-left: 25px;
   font-size: 2.75rem;
-  font-family: helvetica;
+  font-family: helvetica, sans-serif;
 }
 
 #pageContainer1 {
@@ -79,7 +79,7 @@ img {
   padding-top: 120px;
 }
 
-#features > li  {
+#features > li {
   padding: 25px;
 }
 
@@ -96,7 +96,7 @@ iframe {
   width: 100%;
 }
 
-@media (minwidth: 500px) {
+@media (min-width: 500px) {
   img {
     width: 50px;
   }
@@ -108,4 +108,3 @@ iframe {
   padding-bottom: 50px;
   font-size: 1.5rem;
 }
-
