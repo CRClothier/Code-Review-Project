@@ -1,5 +1,54 @@
-# FCC Test Suite Template
+# My Code Review Project
+This project is a copy of one of the trails that we did during the application process for joining Microverse and we are using it with the purpose of practicing leaving a code review.
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+## Buit With
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+- HTML
+- CSS
+
+## Live Demo
+
+The live demo is not active.
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps:
+
+### Prerequisites
+
+Basic knowledge of:
+- HTML & CSS
+- Git & Github
+
+### Setup
+
+- Create a directory on your local computer.
+- Use git init in that directory.
+- Clone this repository into your folder.
+
+### Usage
+
+Edit the files to practice professional standards and code reviews.
+
+## Authors
+
+**Chris Clothier**
+GitHub: [@CRClothier](https://github.com/crclothier)
+LinkedIn: [Chris Clothier](https://www.linkedin.com/in/crclothier/)
+
+## 🤝 Contributing
+
+Feedback, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to Microverse for their README template.
+- Thanks to my learning partners for unblocking me time and time again!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
