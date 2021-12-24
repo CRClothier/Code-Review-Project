@@ -6,10 +6,6 @@ This project is a copy of one of the trails that we did during the application p
 - HTML
 - CSS
 
-## Live Demo
-
-The live demo is not active.
-
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
